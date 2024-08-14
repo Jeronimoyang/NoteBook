@@ -1,9 +1,9 @@
 ---
 template: home.html
-title: PeterJeremiah.NoteBook
+title: Jeronimoyang.NoteBook
 social:
   cards_layout_options:
     title: Documentation that simply works
 ---
 
-Welcome to NoteBook of PeterJeremiah.
+Welcome to NoteBook of Jeronimoyang.
